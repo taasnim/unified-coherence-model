@@ -15,7 +15,7 @@ This repository contains the code of our paper [A Unified Neural Coherence Model
 ## Code
 
 - We released the code for data set generation from WSJ dataset (both global and local).
-- **Full model code will be released within a short period of time**
+- **We released partial codes of our model. Full model code will be released within a short period of time**
 
 
 
@@ -39,3 +39,4 @@ Please cite our paper if you found the resources in this repository useful.
 }
 
 ```
+
