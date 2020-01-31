@@ -12,11 +12,6 @@ This repository contains the code of our paper [A Unified Neural Coherence Model
 - Allennlp
 - torchtext
 
-## Code
-
-- We released the code for data set generation from WSJ dataset (both global and local).
-- **We released partial codes of our model. Full model code will be released within a short period of time**
-
 
 
 ## Citation
