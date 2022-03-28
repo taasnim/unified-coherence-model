@@ -196,9 +196,9 @@ class LightweightConvolution(nn.Module):
         output = self.relu(output+residual)
 
         residual = output
-        output = self.conv_layer_3(output)  # reduce dimension /2
+        output = self.conv_layer_5(output)  # reduce dimension /2
         output = self.relu(output)
-        output = self.conv_layer_4(output)  # reduce dimension /2
+        output = self.conv_layer_6(output)  # reduce dimension /2
         output = self.relu(output+residual)
 
         averaged = torch.mean(output, dim=0).unsqueeze(0)
